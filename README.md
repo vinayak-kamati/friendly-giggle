@@ -46,13 +46,13 @@ Hibernate uses HQL to execute the queries, then maps the results to java objects
 - mapping is the mechanism of placing an object's properties into column’s of a table. hibernate application can contain any number of  mapping files.
 - Mapping can be given to an ORM tool either in the form of an XML or in the form of annotations.
   
-  ##### Collection mapping: 
+  **Collection mapping:**
   If an entity or class has a collection of values for a particular variable, then we can map those values using any one of the collection interfaces available in java.
 
-  ##### Association Mappings:
+  **Association Mappings:**
   Association Mappings is used to model the relationship between two database tables as attributes in our domain model.
 
-  ##### Component Mappings:
+  **Component Mappings:**
   A Component mapping is a mapping for a class having a reference to another class as a member variable.
 
 > ###### configuration object in Hibernate:
