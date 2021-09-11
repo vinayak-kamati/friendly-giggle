@@ -1,3 +1,5 @@
+# ORM and Hibernate
+
 # What is ORM?
 
 The term **ORM** stands for **Object-relational mapping**, it is a technique that helps us to query and manipulate data from a database. The database is nothing but it is a location where the collection of information is Organized so that it can be easily accessed, manage, update the data.
